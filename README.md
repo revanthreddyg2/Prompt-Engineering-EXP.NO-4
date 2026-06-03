@@ -43,3 +43,4 @@ Everyday Functioning Prompts:
 [PROMPT EX 4.pdf](https://github.com/user-attachments/files/28097332/PROMPT.EX.4.pdf)
 
   RESULT:
+   The output is verified successfully
